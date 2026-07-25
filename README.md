@@ -20,6 +20,7 @@ is licensed under [GPL-3.0-only](LICENSE). See [NOTICE](NOTICE) for attribution.
 
 - Connect your iPhone/iPad with a cable.
 - Make sure [Developer Mode is enabled](https://github.com/davesc63/GeoPort/blob/main/README.md#developer-mode)
+- Trust the computer from the device.
 
 ### 2. Call the chopper
 
