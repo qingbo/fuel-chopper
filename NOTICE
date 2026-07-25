@@ -1,0 +1,7 @@
+fuel-chopper is derived from GeoPort:
+https://github.com/davesc63/GeoPort
+
+This repository extracts GeoPort's fuel-location workflow into a standalone
+command-line application. Changes are Copyright (C) 2026 The fuel-chopper
+contributors. The complete work is licensed under GNU GPL version 3 only; see
+LICENSE.
